@@ -39,14 +39,6 @@ int main() {
     }
     printf("The score is: %d", count );
 
-
-
-
-
-
-
-
-
     return 0;
 }
 
